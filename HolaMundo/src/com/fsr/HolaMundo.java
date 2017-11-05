@@ -6,8 +6,6 @@ public class HolaMundo {
 		//Cambio realizado por FSR
 		System.out.println("Hola mundo");
 		System.out.println("Hello world");
-		
-		//Nuevo comentario.
 
 	}
 
